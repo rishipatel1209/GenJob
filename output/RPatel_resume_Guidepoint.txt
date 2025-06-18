@@ -1,0 +1,67 @@
+## Rishi Patel
+
+**(Contact Information)**
+
+**A Data Science Leader Driving Transformative Insights in Healthcare**
+
+Highly accomplished and results-oriented Director of Data Science, poised to leverage extensive experience in leading data science initiatives, building high-performing teams, and delivering data-driven solutions to drive significant business impact within Guidepoint Qsight's Medical Device team. Proven ability to translate complex data into actionable insights for investors and corporate clients, optimize data accuracy, and foster a culture of innovation and continuous improvement. Expertise in Generative AI, NLP, and Machine Learning, coupled with a deep understanding of the U.S. healthcare system and a passion for contributing to a rapidly growing, dynamic organization.
+
+**EXPERIENCE**
+
+**Director of Data Science** | Veda Data Solutions, Madison, WI (Remote) | July 2022 – May 2025
+
+*   Spearheaded the scoping and execution of complex data analytic projects, translating executive and client visions into actionable plans and impactful product integrations.
+*   Cultivated a high-performing team of 6 data scientists through mentorship, strategic goal-setting, and fostering a culture of excellence in code quality and data transformation.
+*   Emerged as the subject matter expert on in-house curated healthcare provider data, proactively resolving data quality issues and achieving a benchmark of 90% accuracy for the DaaS product, a significant improvement over the 30-50% baseline from phone call verifications.
+*   Engineered and implemented cost-effective solutions utilizing in-house curated datasets, reducing vendor costs by 10-100x and demonstrating the ability to scale data collection without compromising accuracy.
+*   Architected core ML models and established MLOps processes, ensuring rigorous performance assessment and continuous improvement, while staying at the forefront of AI trends.
+*   Championed collaboration with research institutions to validate data accuracy, enhancing the marketability of new DaaS products.
+*   Designed and implemented a generative AI-powered web scraper in Amazon Bedrock (using Anthropic) to enhance the precision and throughput of medical provider verification pipelines.
+*   Conceptualized a proof-of-concept for geospatial graph analysis of insurance networks to enhance contract compliance.
+*   Exceeded company performance metrics through data accuracy improvements, cost optimization initiatives, and enhancement of team operational efficiency.
+*   Empowered staff development through mentorship and coaching, fostering their potential and expertise.
+*   Drove continuous improvement and growth by designing workflow optimization and enhancing customer service and satisfaction.
+*   Aligned data analytics with business objectives through stakeholder collaboration, KPI implementation, and long-term strategic planning.
+*   Drove multiple projects from concept to completion while successfully managing budgets and timelines on each project.
+
+**Data Scientist** | NeuroFlow, Philadelphia, PA | January 2021 – July 2022
+
+*   Transformed clinical research questions into actionable analytics plans using patient-generated health data, providing insights into symptom reduction and program effectiveness.
+*   Developed and refined patient risk stratification ML models, specializing in NLP for suicide risk and correlation analysis for comorbidities, adhering to stringent patient privacy guidelines (HIPAA/FedRAMP).
+*   Designed intuitive dashboards for symptom reduction, patient engagement, and billing, effectively communicating analytical findings to clinical and business stakeholders.
+*   Supported VA grant proposals on suicide prevention through data analysis, impacting app engagement and user experience via A/B testing.
+
+**Post-Doctoral Researcher** | University of Colorado, Boulder, CO | Oct 2017 – June 2020
+
+*   Led complex, large-scale data analysis projects across multiple universities, presenting technical findings at international conferences.
+*   Utilized advanced machine learning techniques to enhance data calibration, reducing the required data for significant discoveries by 20%.
+*   Led a scientific committee, mentored junior researchers, and contributed to peer-reviewed publications.
+
+**Post-Doctoral Researcher** | Texas A\&M University, College Station, TX | Oct 2014 – Oct 2017
+
+*   Authored numerous manuscripts for peer-reviewed journals and presented findings at conferences.
+*   Established collaborations with other scientists both within the institution and outside it.
+*   Developed expertise in data analysis, interpretation and presentation of results.
+
+**SKILLS**
+
+*   **Languages:** Python, SQL, C++
+*   **Database Structures:** PostGIS, PostgreSQL, SQLite, DynamoDB
+*   **Packages:** Pandas, NumPy, Scikit-learn, Seaborn, SpaCy, TensorFlow, PyTorch
+*   **Data Visualization:** Tableau, Looker, MetaBase, MapBox
+*   **AI/ML Models:** XGBoost, Transformer-based LLMs, RAG Models (Amazon Bedrock, Gemini, OpenAI, Anthropic)
+*   **AI Agents:** LangChain, LangGraph, LangServe
+*   **Cloud Platforms:** AWS, Snowflake
+*   **Compute:** Docker, API Gateways (NGrok, Postman, FastAPI)
+*   **Team Management:** Recruiting, Mentoring, Performance Management, Cross-Functional Leadership (Data Engineering, Customer Success, Sales)
+*   **Product Development:** Product Pitching, White Papers, Roadmap Strategy, Market Analysis
+
+**EDUCATION**
+
+**PhD in Physics** | Rutgers University, NJ
+
+**BA in Math and Physics** | New York University, NY
+
+**AWARDS**
+
+Fermilab National Laboratory, LPC Distinguished Research Fellow (2018-2019)

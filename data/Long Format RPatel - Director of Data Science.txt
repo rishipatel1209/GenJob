@@ -1,0 +1,166 @@
+
+RISHI PATEL
+DIRECTOR OF DATA SCIENCE
+
+
+Languages: 
+* Python, SQL, C++
+Database Structures: 
+* PostGIS, PostGres, SQLite, DynamoDB
+Packages: 
+* Pandas, NumPy, Scikit-learn, Seaborn, SpaCy, tensorflow, pyTorch
+* Data Visualization layers: Tableau, Looker, MetaBase, MapBox
+AI and ML Models: 
+* XGBoost, Transformer-based LLMs, RAG Models in Amazon Bedrock
+* Prompt-based Generative AI : Providers: Gemini, OpenAI, Anthropic
+* AI Agents: LangChain, LangGraph, LangServe
+Team Management: 
+* Reporting Product Quality and  Strategy to Executives for Roadmaps
+* ML/AI Operations 
+* Internal Operations Dashboards
+* Cross-functional team leadership: Data Engineering, Customer Success, and Sales
+* Product pitching and white papers
+* Recruiting new Data Scientists 
+* Peer Mentorship to Entry-level Data scientists
+
+
+Statistics and Analytics: 
+* Regression Models for forecasting
+* A/B Testing for significance testing
+* Confidence Intervals
+* Population Health: Symptom reduction and Patient Risk Stratification
+* Insurance Provider data management
+* Custom Dashboard Development for KPI tracking, Billing and Reporting
+* Geospatial Analysis 
+Cloud Based Solutions
+* Platform: AWS, SnowFlake
+* Compute: Docker, API Gateways (through NGrok, Postman, FastAPI)
+* GPU training: AWS Sagemaker, Google AI studio, GROQ
+	
+
+	
+
+	PROFESSIONAL SUMMARY
+
+
+Experienced in leading data science initiatives, crafting innovative solutions in machine learning and AI to optimize data accuracy and operational efficiency. Skilled in strategic planning, cross-functional leadership, and data-driven decision-making, with a strong background in healthcare analytics and research collaboration. Offering expertise in developing scalable models and enhancing team capabilities.
+
+
+EXPERIENCE
+
+
+ 
+	July 2022 - May 2025
+Director of Data Science
+Veda Data Solutions, Madison, WI (remote)
+
+
+* Scoped and managed complex data analytic projects from proof-of-concept to product integration, translating executive and client's needs into actionable plans in collaboration with other teams
+* Led a team of 6 data scientists, providing mentorship and fostering career growth with stretch goals; ensured high-quality, well-documented code and data transformations. Key projects included automation for the Customer Ops team, LLM modeling to format unstructured data, empirical analysis of classification and inference models
+* Became a subject matter expert on in-house curated healthcare provider data, proactively investigated and resolved data quality issues, significantly improving data accuracy (benchmarked DaaS product at 90% accuracy vs. 30-50% baseline in phone call verifications)
+* Developed and managed a team dashboard to monitor data accuracy drifts, team performance, and project capacity, ensuring data integrity and timely delivery of meaningful results
+* Reduced vendor costs by 10-100x by architecting and implementing solutions using in-house curated data sets, demonstrating ability to scale in-house data collection without drift in accuracy
+* Built core ML models and established MLOps processes for performance assessment and continuous improvement, keeping up-to-date with AI trends
+* Collaborated with research institutions on data validation projects to market the accuracy of new DaaS products
+* Created a web scraper algorithm in Amazon Bedrock that used generative AI (via Anthropic endpoint) to find medical providers in a given zip code and attached it to a pipeline to verify that the provider still exists with a legitimate website (improve precision for throughput)
+* Created proof-of-concept for geospatial graph Analysis of insurance networks based on contract compliance requirements
+* Company performance metrics: Data accuracy of product output, cost-optimization, and team operational efficiency
+* Formulated long-term objectives while managing day-to-day operations.
+* Mentored and coached staff members, enabling them to reach their highest potentials.
+* Organized resources efficiently to maximize productivity and minimize costs.
+* Monitored customer feedback regularly to improve customer experience.
+* Cultivated relationships with key internal and external stakeholders.
+* Collaborated with stakeholders to identify areas for improvement and develop strategies for growth.
+* Implemented effective policies and procedures that enabled the organization to meet compliance requirements.
+* Demonstrated and supported continuous improvement and growth mindset.
+* Designed innovative approaches to optimize workflow, streamline procedures, and enhance customer service satisfaction levels.
+* Utilized data analytics techniques to identify areas for improvement.
+* Led cross-functional projects that improved operational efficiency.
+* Collaborated with stakeholders to develop long-term strategic plans for growth.
+* Established and monitored KPIs to optimize company performance.
+* Spearheaded multiple projects from concept through completion while successfully managing budgets and timelines on each project.
+* Developed and implemented effective strategies to reduce costs while maintaining quality standards.
+* Set and implemented strategic goals and initiatives to align company with mission, values, and vision.
+* Established performance metrics to track progress and success of initiatives.
+	
+
+ 
+	January 2021 - July 2022
+Data Scientist
+NeuroFlow, Philadelphia, PA
+
+
+* Translated clinical research questions into analytics plans using patient-generated health data (conceptually similar to survey and claims data) to measure symptom reduction and evaluate behavioral healthcare program effectiveness
+* Developed and improved patient risk stratification ML models (NLP for suicide risk, correlations for comorbidities like substance use and other conditions), acting as a subject matter expert on these data sources and their limitations
+* Designed and implemented dashboards for symptom reduction, patient engagement, and billing, effectively communicating analytical results to clinical and business stakeholders
+* Collaborated with data engineers and clinicians to build and validate models, ensuring data quality and adherence to patient privacy guidelines (HIPAA/FedRAMP)
+* Analyzed data to support VA grant proposals on suicide prevention (experience with research outputs) and measured the impact of app feature changes via A/B testing
+* Gained experience with unstructured data (clinician notes for NLP) and applied machine learning in a population health context
+* Company performance metrics: App engagement/churn, sensitivity and specificity of patient alerts
+* Tested different feature engineering strategies such as dimensionality reduction and feature selection.
+* Applied expert analytics and technical interpretation to provide highly creative solutions.
+* Monitored products from statistical programs for accuracy, consistency and statistical validity.
+* Developed and implemented predictive models to identify customer churn using logistic regression, decision trees, and random forests.
+* Designed experiments to test hypotheses and evaluate model performance metrics.
+* Developed and implemented new algorithms to improve existing models.
+* Researched solutions to overcome data analytics challenges.
+* Found relevant data sets to test hypotheses or support theories.
+* Introduced new statistical tools, technology, and programs to improve teams' capabilities.
+* Conducted analyses to identify trends or patterns in data sets.
+* Maintained version control systems tracking changes in codebase during development stages.
+* Provided technical guidance in designing experiments for generating high quality datasets.
+* Analyzed and interpreted quantitative and qualitative data from multiple sources to synthesize results into actionable recommendations.
+* Generated reports to present results of analyses in easy to comprehend manner.
+* Delivered oral and written presentations of results of mathematical modeling and data analysis to management and other end users.
+* Cleaned and manipulated raw data using statistical software.
+* Performed feature engineering on high dimensional datasets in order to improve accuracy of predictive models.
+* Read scientific articles, conference papers, or other sources of research to identify emerging analytic trends and technologies.
+* 	
+
+ 
+	Post-Doctoral Researcher
+University of Colorado, Boulder, CO
+Oct 2017 -June 2020
+* Managed complex, large-scale data analysis projects across universities and communicated technical results to experts at international conferences
+* Used advanced machine learning techniques to calibrate data so that discoveries could be made with 20% less data (specifically the 2012 Nobel prize winning discovery of the Higgs boson)
+* Chaired a scientific committee, mentored junior researchers, and contributed to peer-reviewed publications
+* Designed and studied efficiency of FPGA based electronic data collection triggers for the next phase of the experiment
+* Authored numerous manuscripts for peer-reviewed journals and presented findings at conferences.
+* Established collaborations with other scientists both within the institution and outside it.
+* Developed expertise in data analysis, interpretation and presentation of results.
+* Applied quantitative tools such as regression models to analyze large datasets.
+* Utilized advanced statistical software packages to conduct complex analyses.
+* Collaborated with other researchers to design experiments and analyze data.
+* Provided guidance to junior members of the team regarding best practices when conducting experiments or handling equipment.
+* Demonstrated proficiency in writing scientific papers according to journal publication guidelines.
+* Mentored graduate students on research techniques and methods.
+* Generated hypotheses based on prior knowledge and formulated testable predictions.
+* Interacted regularly with peers from different disciplines to exchange ideas and brainstorm solutions.
+* Participated actively in workshops organized by the department or external organizations related to research topics.
+* Investigated novel approaches to solve problems encountered during experimentation phases.
+* Performed research and analysis to present findings to team and external stakeholders.
+
+
+Post-Doctoral Researcher
+Texas AM University, College Station, TX
+Oct 2014 - Oct 2017
+* Authored numerous manuscripts for peer-reviewed journals and presented findings at conferences.
+* Established collaborations with other scientists both within the institution and outside it.
+* Developed expertise in data analysis, interpretation and presentation of results.
+* Mentored graduate students on research techniques and methods.
+* Generated hypotheses based on prior knowledge and formulated testable predictions.
+EDUCATION
+ 
+PhD in Physics 
+Rutgers University, NJ
+	
+BA in Math and Physics 
+New York University, NY
+
+Awards: 
+Fermilab National Laboratory
+LPC Distinguished Research Fellow (2018-2019)
+
+	
+
+	.
